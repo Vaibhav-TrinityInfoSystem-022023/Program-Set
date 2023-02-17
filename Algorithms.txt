@@ -1,0 +1,223 @@
+1. Javascript program to print hello world program.
+    S-1: Start 
+    S-2: Bind the Javascript file to html file.
+    S-3: In Javascript file written hello world in console.log().
+    s-4: End.
+  
+2. Javacsript program to add two numbers.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Simply we can write direct two numbers in console.log().
+    S-3: Otherwise we can define arrow function, we can pass two number arguments in the function and print two number in console screen.
+    S-4: End.
+
+3. Javacsript program to find square root.
+    S-1: Start 
+    S-2: Bind the Javascript file to html file.
+    S-3: We take input from user.
+    S-4: Simply using inbuilt math function of square root calculate user input value.
+    S-5: Print the output.
+    S-6: End.
+
+4. Javacsript program to calculate Area of triangle.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take a two input value and calsulate triangle formula.
+    S-4: Calculate area = (base * height) / 2.
+    S-5: End.
+
+5. Javascript program to swap two variable.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take a two input value from user.
+    S-4: Take a temp variable for swaping technique.
+    S-5: Print a both variable.
+    S-6: End.
+
+6. Javascript program to convert kilometers to miles.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take or define one variable value kilometer.
+    S-4: One kilometer is equal to 0.621371 miles.
+    S-5: Then multiple the user input value and 0.621371.
+    S-6: Print final value.
+    S-7: End.
+
+7. Javascript program to convert Celsium to Fahrenheit.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Set a celsius value.
+    S-4: Convert Celsius to Fahrenheit formula is f = c * 1.8 +32;
+    S-5: Print Fahrenheit.
+    S-6: End.
+
+8. Javscript program to work with constants.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Define a const variable.
+    S-4: Defien a const variable inside the block scope and analyze the difference between them.
+    S-5: Print the both variable.
+    S-6: Define array using const keyword.
+    S-7: Print array.
+    S-8: End.
+
+9. Javscript program write to console.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Using the console.log() method to prints a various datatypes values.
+    S-4: Experiment all datatypes and print the value.
+    S-5: End.
+
+10. Javascript program to solve Quadratic Equation.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Declare three quadratic variable.
+    S-3: We will need discriminant of squre root, so we can declare discriminant variable and find equation.
+    S-4: We check the discriminant id greter than 0 then calculate rot1 and root2.
+    S-5: then we we check second condition discriminant is equal to 0, then root1 = root2 = -b / (2 * a).
+    S-6: End.
+
+11. Javscript program to check if the number is negative, positive, or zero.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take one value from user as a input.
+    S-4: Check the value as Zero, Positive, Negative.
+    S-5: End.
+
+12. Javscript program to check if the number is Odd or Even.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take one value from user as a input.
+    S-4: Check the value of a either Odd or Even.
+    S-5: End.
+
+13. Javascript program to find the largest among three numbers.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Define a three const variable.
+    S-4: Compare three variable.
+    S-5: Print final output.
+    S-6: End.
+
+14. Javascript program to check prime number.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take one value from user as a input.
+    S-4: Set one flag variable.
+    S-5: Check the condition when user input is 1 then print 1 is a neutral number.
+    S-6: Calculate number then decide the number is prime or not.
+    S-7: Print final ouput.
+    S-8: End.
+
+15. Javascript program to print all prime number in an interval.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take one value from user as a input.
+    S-4: Calculate the  a and b.
+    S-5: Declare flag variable.
+    S-6: Check given number is positive then print all number between value1 and value2.
+    S-7: End.
+
+16. Javascript program to find the factorial of a number.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Check the condition of user input is negative or not.
+    S-4: Check the condition of user input 0.
+    S-5: if user entered the value of positive number then multiple number form 1 to user input value.
+    S-6: Print Final value.
+    S-7:End.
+
+17. Javscript program to display the multiplication table. 
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take a value from user.
+    S-4: User input value multiply up to 10.
+    S-5: Print multiplication answer.
+    S-6: End.
+
+18. Javacsript program to print the fibonacci sequence.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take a value from user.
+    S-4: Display the value of first and second number.
+    S-5: Repeat the process of Fibonacci series until third < val.
+    S-6: Diplay value of third.
+    S-7: End.
+
+19. Javscript program to check armstrong number.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take a value from user.
+    S-4: Find length of user input value.
+    S-5: Take a temporary variable for store a user input value.
+    S-6: If number is greater than 0, then find the remainder of temp variable.
+    S-7: Apply the power function, to the user how many number digit enter the value.
+    S-8: Divide the temp variable valueby 10.
+    S-9: If number is equal to user input value then print armstrong number otherwise not.
+    S-10: End.
+
+20. Javacsript program to find armstrong number in an interval.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take a two input value from user is to start to end between print armstrong number.
+    S-4: Find length the length of first value.
+    S-5: if number is greater than 0 then then find the remainder of temp variable.
+    S-6: Find the exponential value of remainder variable.
+    S-7: Divide the temp variable valueby 10.
+    S-8: Display number.
+    S-9: End.
+
+21: Javascript program to make a simple calculator.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: User want to input to which operation perform in calculator.
+    S-4: Take a two number value from user.
+    S-4: Operation match in switch statement.
+    S-5: Perform user selected opeation.
+    S-6: Diplay data.
+    S-7: End.
+
+22: Javacsrtipt program to find the sum of natural numbers.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take a number from user.
+    S-4: Continue iteration untill enter user input value is not reach.
+    S-5: Diplay Sum;
+    S-6: End.
+
+23: Javascript program to check the numbers is same as last digit.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take a two number from user.
+    S-4: Find the both value remainder.
+    S-5: Display the statement if last number is same, otherwise last number is different.
+    S-6: End.
+
+24: Javascript program to find HCF and GCD.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Calculate the remainder of both variable.
+    S-4: Assign the value of hcf variable.
+    S-5: Diplay the value.
+    S-6: End.
+
+25: Javacsript program to find LCM.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Find the GCD of both number.
+    S-4: Find the LCM.
+    S-5: Display LCM.
+    S-6: End.
+
+26. Javascript program to find the factor of a number.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+    S-3: Take a number from user.
+    S-4: Calculate the remainder of given value, if value is equal to zero then iteration value display. 
+    S-5: Display all factors.
+    S-6: End.
+
+27. Javacsript program to print the fibonacci sequence.
+    S-1: Start
+    S-2: Bind the Javascript file to html file.
+
